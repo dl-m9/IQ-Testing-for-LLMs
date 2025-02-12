@@ -5,7 +5,7 @@
 
 Recently, large language models (including multi-modal LLMs) have emerged as a potential precursor to artificial general intelligence (AGI). To assess the capabilities of LLMs, numerous benchmarks have been proposed, such as MMLU, GSM8K, and GQA. However, these benchmarks are designed to evaluate specific abilities of LLMs rather than aligning with human intelligence assessment methods. Therefore, we can not compare the performance of LLMs with human intelligence. To mitigate this issue, we launch this project to test the IQ of different LLMs, e.g. DeepSeek R1, o1, GPT-4o, Claude-3.5-Sonnet, etc.
 
-## What is IQ?
+## What is IQ
 
 
 
@@ -27,7 +27,7 @@ $$
    - Criticized for not capturing **emotional intelligence, creativity, or practical skills**.
 
 
-## Tests
+## IQ Test Sets
 
 
 1. Stanford-Binet
