@@ -22,9 +22,7 @@ $$
 2. **Distribution**. Scores follow a bell curve, where:
    - **85–115**: Average (68% of the population).
    - **130+**: Top 2% (often associated with high achievers or groups like Mensa).
-3. **Measurement Scope**:  
-   - Assesses cognitive abilities such as **logic, problem-solving, memory, and abstract reasoning**.
-   - Criticized for not capturing **emotional intelligence, creativity, or practical skills**.
+3. **Measurement Scope**. Assesses cognitive abilities such as **logic, problem-solving, memory, and abstract reasoning**.
 
 
 ## IQ Test Sets
