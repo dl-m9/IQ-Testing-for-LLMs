@@ -25,7 +25,22 @@ $$
 3. **Measurement Scope**:  
    - Assesses cognitive abilities such as **logic, problem-solving, memory, and abstract reasoning**.
    - Criticized for not capturing **emotional intelligence, creativity, or practical skills**.
-4. **Tests and Variants**:  
-   - Common tests include the **Stanford-Binet** and **Wechsler Adult Intelligence Scale (WAIS)**.
-   - Include both verbal (language-based) and non-verbal (visual/spatial) components.
+
+
+## Tests
+
+
+1. Stanford-Binet
+2. Wechsler Adult Intelligence Scale (WAIS)
+3. Raven's Progressive Matrices
+4. Wechsler Intelligence Scale for Children (WISC)
+5. Wechsler Preschool and Primary Scale of Intelligence (WPPSI)
+6. Kaufman Assessment Battery for Children (KABC)
+7. Differential Aptitude Tests (DAT)
+8. Wechsler Abbreviated Scale of Intelligence (WASI)
+9. Woodcock-Johnson Tests of Cognitive Abilities
+10. Otis-Lennon School Ability Test (OLSAT)
+11. Cognitive Assessment System (CAS)
+12. Kaufman Brief Intelligence Test (KBIT)
+
 
