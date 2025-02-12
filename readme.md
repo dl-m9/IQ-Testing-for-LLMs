@@ -12,19 +12,20 @@ Recently, large language models (including multi-modal LLMs) have emerged as a p
 IQ, or Intelligence Quotient, is a score derived from standardized tests designed to measure human intelligence. Here's a structured overview:
 
 1. **Calculation**. Historically, IQ was calculated as **(mental age ÷ chronological age) × 100**, but modern tests use a **norm-referenced approach** comparing individuals to a representative sample, with an average score set to 100 and a standard deviation of 15.
-![formula](https://render.githubusercontent.com/render/math?math=\text{IQ} = 100 + \left( \frac{\text{Individual Score} - \text{Population Mean}}{\text{Standard Deviation}} \right) \times 15)
+
+$$
+\text{IQ} = 100 + \left( \frac{\text{Individual Score} - \text{Population Mean}}{\text{Standard Deviation}} \right) \times 15
+$$
 
 
 
-1. **Distribution**. Scores follow a bell curve, where:
+2. **Distribution**. Scores follow a bell curve, where:
    - **85–115**: Average (68% of the population).
    - **130+**: Top 2% (often associated with high achievers or groups like Mensa).
-
-2. **Measurement Scope**:  
+3. **Measurement Scope**:  
    - Assesses cognitive abilities such as **logic, problem-solving, memory, and abstract reasoning**.
    - Criticized for not capturing **emotional intelligence, creativity, or practical skills**.
-
-3. **Tests and Variants**:  
+4. **Tests and Variants**:  
    - Common tests include the **Stanford-Binet** and **Wechsler Adult Intelligence Scale (WAIS)**.
    - Include both verbal (language-based) and non-verbal (visual/spatial) components.
 
